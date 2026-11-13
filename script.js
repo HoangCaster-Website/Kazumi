@@ -1193,7 +1193,7 @@
     impressum: `
       <h2>Impressum</h2>
       <p><strong>Angaben gemäß § 5 TMG:</strong></p>
-      <p>Kazumi Ludwigsburg<br>Holzmarkt 3<br>71634 Ludwigsburg<br>Deutschland</p>
+      <p>Kazumi Balingen<br>Dammstraße 2<br>72336 Balingen<br>Deutschland</p>
       <p><strong>Kontakt:</strong><br>WhatsApp / Telefon: +49 152 28560316<br>E-Mail: über die Website</p>
       <p><strong>Öffnungszeiten:</strong><br>Montag bis Sonntag: 10:30 - 23:00 Uhr</p>
     `,
